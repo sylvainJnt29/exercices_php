@@ -1,0 +1,42 @@
+.titreBleu{
+    color: red;
+}
+.titreRouge{
+    color: blue;
+}
+.background-colorP{
+    background-color: rgb(231, 164, 164);
+}
+.background-colorP2{
+    background-color: cadetblue;
+}
+#img_moto{
+    width: 50%;
+    height: 50%;
+}
+.background-colorChange{
+    background-color: cornflowerblue;
+}
+#block{
+    background-color: rgba(100, 148, 237, 0.39);
+    padding: 10%;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    background-color: rgba(221, 178, 221, 0.561);
+    overflow: hidden;
+}
+li a{
+    color: purple;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+li{
+    float: left;
+}
+li a:hover{
+    background-color: palevioletred;
+}
